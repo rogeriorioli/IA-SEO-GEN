@@ -20,7 +20,7 @@ The UI is built with **React**, **TypeScript**, and **Tailwind CSS**.
 ## Demo
 
 
-![SEO IA ANALISES](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xvkgw2v9yuyfdpme7lfy.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ylynqezn2zrsej66xs31.png)
 
 ---
 
@@ -30,7 +30,8 @@ The UI is built with **React**, **TypeScript**, and **Tailwind CSS**.
 * **AI Insights:** Gemini critiques your current SEO strategy and suggests specific keywords and headings.
 * **Code Generation:** Get the exact `<meta>` tags and JSON-LD needed to fix the site.
 
-🔗 **Live Demo:** [INSERT YOUR APP URL HERE]
+**Live Demo**: https://ia-seo-gen.vercel.app/
+**GitHub**: https://github.com/rogeriorioli/IA-SEO-GEN
 
 ---
 
@@ -64,4 +65,3 @@ With Gemini, I simply provided a prompt acting as a *"Technical SEO Expert"* and
 
 This project showed me that **AI isn't just for chatbots—it's a powerful engine for structural analysis and code generation.**
 
----
